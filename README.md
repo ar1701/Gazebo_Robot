@@ -63,9 +63,7 @@ To run the simulation:
    ```bash
    ros2 launch my_robot_bringup my_robot_gazebo.launch.xml
    ```
-
-   Replace `<launch_file>` with the appropriate launch file name.
-
+   
 ## Dependencies
 
 Ensure you have the following installed:
@@ -73,6 +71,7 @@ Ensure you have the following installed:
 - ROS 2 (Humble)
 - Gazebo
 - colcon
+- rviz2
 
 ## License
 
