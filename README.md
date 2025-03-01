@@ -61,7 +61,7 @@ To run the simulation:
 5. **Launch the simulation**:
 
    ```bash
-   ros2 launch <launch_file>
+   ros2 launch my_robot_bringup my_robot_gazebo.launch.xml
    ```
 
    Replace `<launch_file>` with the appropriate launch file name.
