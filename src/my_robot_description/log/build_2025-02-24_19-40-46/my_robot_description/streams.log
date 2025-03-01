@@ -1,0 +1,35 @@
+[0.008s] Invoking command in '/home/ayush/Desktop/ROS_part_2/src/my_robot_description/build/my_robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ayush/Desktop/ROS_part_2/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/ayush/Desktop/ROS_part_2/src/my_robot_description/install/my_robot_description
+[0.055s] -- The C compiler identification is GNU 11.4.0
+[0.105s] -- The CXX compiler identification is GNU 11.4.0
+[0.111s] -- Detecting C compiler ABI info
+[0.178s] -- Detecting C compiler ABI info - done
+[0.185s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.185s] -- Detecting C compile features
+[0.185s] -- Detecting C compile features - done
+[0.188s] -- Detecting CXX compiler ABI info
+[0.263s] -- Detecting CXX compiler ABI info - done
+[0.270s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.270s] -- Detecting CXX compile features
+[0.271s] -- Detecting CXX compile features - done
+[0.273s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.614s] -- Found Python3: /opt/anaconda3/bin/python3 (found version "3.12.2") found components: Interpreter 
+[0.708s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.729s] Traceback (most recent call last):
+[0.729s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 22, in <module>
+[0.729s]     from catkin_pkg.package import parse_package_string
+[0.729s] ModuleNotFoundError: No module named 'catkin_pkg'
+[0.732s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[0.732s]   execute_process(/opt/anaconda3/bin/python3
+[0.733s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[0.733s]   /home/ayush/Desktop/ROS_part_2/src/my_robot_description/package.xml
+[0.733s]   /home/ayush/Desktop/ROS_part_2/src/my_robot_description/build/my_robot_description/ament_cmake_core/package.cmake)
+[0.733s]   returned error code 1
+[0.733s] Call Stack (most recent call first):
+[0.733s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[0.733s]   /opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.733s]   CMakeLists.txt:23 (ament_lint_auto_find_test_dependencies)
+[0.733s] 
+[0.733s] [0m
+[0.734s] -- Configuring incomplete, errors occurred!
+[0.734s] See also "/home/ayush/Desktop/ROS_part_2/src/my_robot_description/build/my_robot_description/CMakeFiles/CMakeOutput.log".
+[0.736s] Invoked command in '/home/ayush/Desktop/ROS_part_2/src/my_robot_description/build/my_robot_description' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ayush/Desktop/ROS_part_2/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/ayush/Desktop/ROS_part_2/src/my_robot_description/install/my_robot_description

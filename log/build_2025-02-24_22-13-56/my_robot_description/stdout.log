@@ -1,0 +1,25 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ayush/Desktop/ROS_part_2/build/my_robot_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/my_robot_description/urdf/my_robot.urdf.xacro
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/my_robot_description/launch/display.launch.xml
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/my_robot_description/rviz/robot_config.rviz
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/my_robot_description/environment/path.sh
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/my_robot_description/environment/path.dsv
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/my_robot_description/local_setup.bash
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/my_robot_description/local_setup.sh
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/my_robot_description/local_setup.zsh
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/my_robot_description/local_setup.dsv
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/my_robot_description/package.dsv
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+-- Symlinking: /home/ayush/Desktop/ROS_part_2/install/my_robot_description/share/my_robot_description/package.xml

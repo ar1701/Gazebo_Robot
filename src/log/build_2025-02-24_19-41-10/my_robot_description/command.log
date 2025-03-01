@@ -1,0 +1,2 @@
+Invoking command in '/home/ayush/Desktop/ROS_part_2/src/build/my_robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ayush/Desktop/ROS_part_2/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/ayush/Desktop/ROS_part_2/src/install/my_robot_description
+Invoked command in '/home/ayush/Desktop/ROS_part_2/src/build/my_robot_description' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ayush/Desktop/ROS_part_2/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/ayush/Desktop/ROS_part_2/src/install/my_robot_description
