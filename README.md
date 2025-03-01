@@ -26,7 +26,7 @@ This repository contains a Gazebo simulation of a mobile robot designed to inter
 
 The robot's TF tree illustrates the relationship between different coordinate frames of the robot. This is crucial for understanding the robot's kinematics and sensor data interpretation.
 
-![TF Tree](complete_robot)
+![TF Tree](complete_robot.png)
 
 *Figure: Transform tree of the mobile robot.*
 
