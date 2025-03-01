@@ -2,13 +2,13 @@
 
 ## Overview
 
-This repository contains a Gazebo simulation of a mobile robot designed to interact with a turtle in a simulated environment. The project demonstrates the integration of robot modeling, simulation, and control using Gazebo and ROS (Robot Operating System).
+This repository contains a Gazebo simulation of a mobile robot designed to interact in a simulated environment. The project demonstrates the integration of robot modeling, simulation, and control using Gazebo and ROS (Robot Operating System).
 
 ## Demo
 
-![Turtle Catch Game Demo](mobile_robot.gif)
+![Mobile Robot Simulation](mobile_robot.gif)
 
-*Figure: Demonstration of the mobile robot interacting with the turtle in the Gazebo simulation.*
+*Figure: Demonstration of the mobile robot interacting in the Gazebo simulation.*
 
 ## Repository Structure
 
