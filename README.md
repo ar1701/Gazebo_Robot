@@ -30,7 +30,7 @@ The robot's TF tree illustrates the relationship between different coordinate fr
 
 *Figure: Transform tree of the mobile robot.*
 
-## Getting Started
+## Getting Started:
 
 To run the simulation:
 
